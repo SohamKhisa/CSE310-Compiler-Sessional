@@ -1,0 +1,140 @@
+I a a
+
+Inserted in ScopeTable# 1 at position 6, 0
+
+I f f
+
+Inserted in ScopeTable# 1 at position 4, 0
+
+I h h
+
+Inserted in ScopeTable# 1 at position 6, 1
+
+I k k
+
+Inserted in ScopeTable# 1 at position 2, 0
+
+I l l
+
+Inserted in ScopeTable# 1 at position 3, 0
+
+I g g
+
+Inserted in ScopeTable# 1 at position 5, 0
+
+I c c
+
+Inserted in ScopeTable# 1 at position 1, 0
+
+P C
+
+
+ScopeTable # 1
+0 -->  
+1 -->  < c : c>  
+2 -->  < k : k>  
+3 -->  < l : l>  
+4 -->  < f : f>  
+5 -->  < g : g>  
+6 -->  < a : a>  < h : h>  
+
+I e e
+
+Inserted in ScopeTable# 1 at position 3, 1
+
+I b b
+
+Inserted in ScopeTable# 1 at position 0, 0
+
+I i i
+
+Inserted in ScopeTable# 1 at position 0, 1
+
+I f c
+
+<f, c> already exists in current ScopeTable
+
+I d d
+
+Inserted in ScopeTable# 1 at position 2, 1
+
+I j j
+
+Inserted in ScopeTable# 1 at position 1, 1
+
+I o o
+
+Inserted in ScopeTable# 1 at position 6, 2
+
+I v v
+
+Inserted in ScopeTable# 1 at position 6, 3
+
+P A
+
+
+ScopeTable # 1
+0 -->  < b : b>  < i : i>  
+1 -->  < c : c>  < j : j>  
+2 -->  < k : k>  < d : d>  
+3 -->  < l : l>  < e : e>  
+4 -->  < f : f>  
+5 -->  < g : g>  
+6 -->  < a : a>  < h : h>  < o : o>  < v : v>  
+
+D v
+
+Found in ScopeTable# 1 at position 6, 3
+
+Deleted Entry 6, 3 from current ScopeTable
+
+P A
+
+
+ScopeTable # 1
+0 -->  < b : b>  < i : i>  
+1 -->  < c : c>  < j : j>  
+2 -->  < k : k>  < d : d>  
+3 -->  < l : l>  < e : e>  
+4 -->  < f : f>  
+5 -->  < g : g>  
+6 -->  < a : a>  < h : h>  < o : o>  
+
+I v v
+
+Inserted in ScopeTable# 1 at position 6, 3
+
+P A
+
+
+ScopeTable # 1
+0 -->  < b : b>  < i : i>  
+1 -->  < c : c>  < j : j>  
+2 -->  < k : k>  < d : d>  
+3 -->  < l : l>  < e : e>  
+4 -->  < f : f>  
+5 -->  < g : g>  
+6 -->  < a : a>  < h : h>  < o : o>  < v : v>  
+
+D o
+
+Found in ScopeTable# 1 at position 6, 2
+
+Deleted Entry 6, 2 from current ScopeTable
+
+P A
+
+
+ScopeTable # 1
+0 -->  < b : b>  < i : i>  
+1 -->  < c : c>  < j : j>  
+2 -->  < k : k>  < d : d>  
+3 -->  < l : l>  < e : e>  
+4 -->  < f : f>  
+5 -->  < g : g>  
+6 -->  < a : a>  < h : h>  < v : v>  
+
+I o o
+
+Inserted in ScopeTable# 1 at position 6, 3
+
