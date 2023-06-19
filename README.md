@@ -1,3 +1,6 @@
+# CSE310-Compiler-Sessional
+
+## Summary
 This repository contains the codes for my undergraduate lab course <b>CSE310-Compiler Sessional</b> at <a href="https://www.buet.ac.bd/web/">BUET</a>.
 <br>
 This compiler can compile a subset of instructions of the <b>C programming language</b>. This includes arithmetic operations, array, function (including recursion), loop (while and for), if-else statements, etc.
@@ -8,7 +11,8 @@ The steps of a compiler is shown in the image below.
 The image has been taken from the <a href="https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811">Dragon Book</a> by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman.
 <br>
 The compiler has been implemented in <b>C++</b> and the <b>Flex</b> and <b>Bison</b> tools have been used for lexical and syntax analysis respectively.
-<br>
+
+## Description and how to run:
 Each of the directory contains the solutions to the assignments of the course. Each directory includes a problem specification pdf file and some sample inputs and outputs. Each of the directories from the second to the last assignment also includes a script.sh file to run each respective program. The details of the assignments are given below.
 <br>
 <ol>
