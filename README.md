@@ -9,7 +9,7 @@ The image has been taken from the <a href="https://www.amazon.com/Compilers-Prin
 <br>
 The compiler has been implemented in <b>C++</b> and the <b>Flex</b> and <b>Bison</b> tools have been used for lexical and syntax analysis respectively.
 <br>
-Each of the directory contains the solutions to the assignments of the course. Each directory includes a problem specification pdf file and some sample inputs and outputs. The details of the assignments are given below.
+Each of the directory contains the solutions to the assignments of the course. Each directory includes a problem specification pdf file and some sample inputs and outputs. Each of the directories from the second to the last assignment also includes a script.sh file to run each respective program. The details of the assignments are given below.
 <br>
 <ol>
 <li>The first directory "1705120_offline1 (symbolTable)" contains the solution of the first assignment</li>
@@ -27,7 +27,6 @@ Each of the directory contains the solutions to the assignments of the course. E
 <li>The last directory "1705120_offline4 (intermediate code)" contains the solution of the fourth assignment</li>
     <ul>
         <li> In this assignment I had to include both intermediate code generation and code optimization.</li>
-
         <li> Intermediate code is the third phase of a compiler. It is used to convert the source code into a sequence of instructions. The intermediate code is implemented using the Flex and Bison tools. The intermediate code is implemented in the file "1705120.l" and "1705120.y". The input is a "c" extension file taken from the command line. There are two output files in this assignment one is code.asm and other is optimized_code.asm.</li>
     </ul>
 </ol>
